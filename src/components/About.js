@@ -10,6 +10,9 @@ function About() {
         <header className="App-header">
        
      <p>Character Sheet. </p>  
+
+     <div>First name: <input type="text"></input></div>
+     
           
         </header>
       </div>

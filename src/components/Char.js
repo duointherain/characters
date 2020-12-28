@@ -10,6 +10,8 @@ function Char() {
         <header className="App-header">
        
      <p>Character Sheet. </p>  
+
+     <input text>Name</input>
           
         </header>
       </div>
