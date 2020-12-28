@@ -11,7 +11,8 @@ function About() {
        
      <p>Character Sheet. </p>  
 
-     <div>First name: <input type="text"></input></div>
+     <div>First Name: <input type="text"></input></div>
+     <div>Last Name: <input type="text"></input></div>
      
           
         </header>
