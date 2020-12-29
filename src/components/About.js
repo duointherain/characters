@@ -9,10 +9,15 @@ function About() {
       <div className="App">
         <header className="App-header">
        
-     <p>Character Sheet. </p>  
+     <p>Character Sheet </p>  
 
      <div>First Name: <input type="text"></input></div>
      <div>Last Name: <input type="text"></input></div>
+     <div>Birthdate: <input type="date"></input></div>
+     <div>Hair: <input type="text"></input></div>
+     <div>Eyes: <input type="text"></input></div>
+     <div>Feet: <input type="number"></input></div>
+     <div>Inches: <input type="number"></input></div>
      
           
         </header>
