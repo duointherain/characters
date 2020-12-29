@@ -18,7 +18,8 @@ function About() {
      <div>Eyes: <input type="text"></input></div>
      <div>Feet: <input type="number"></input></div>
      <div>Inches: <input type="number"></input></div>
-     
+    
+     <button className="charsub">Sumbit</button>
           
         </header>
       </div>
