@@ -8,9 +8,11 @@ function Login() {
     return (
       <div className="App">
         <header className="App-header">
-        <Navbar />
-     <p>There is going to be a form here. </p>  
-          
+        
+     <p>Login Here </p>  
+          <div>Email: <input type="email"></input></div>
+          <div>Password: <input type="text"></input></div>
+          <button className='charsub'>Login</button>
         </header>
       </div>
     );
